@@ -1,0 +1,5 @@
+PARA COMPILAR:
+	make
+
+PARA EXECUTAR
+	time ./main & ./put_client & ./get_client
